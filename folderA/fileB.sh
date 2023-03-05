@@ -1,1 +1,1 @@
-echo “This is fileB from folderB”
+echo “File Updated: This is fileB from folderA”
